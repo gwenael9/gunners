@@ -1,0 +1,1 @@
+si je garde graphQL, install apollo côté client : npm install @apollo/client graphql
